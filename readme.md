@@ -57,6 +57,6 @@ SLIDES:
         Classic Cozzzy
 ```
 
-*BONUS!* 
+***BONUS!*** 
 
 Can you modularize this code??
