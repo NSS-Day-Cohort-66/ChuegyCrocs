@@ -4,7 +4,7 @@ Hey sis, I’m looking for a someone to fix this application of mine.  Low key j
 
 This is what I was trying to do:
 
-```jsx
+```
 ALL CROCS:
 ---------------------------------
         White and Yellow Classic Pokemon Classic Clog
